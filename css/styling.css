@@ -1,0 +1,14 @@
+.grad{
+	color: linear-gradient(to right,orange,#E30047)
+}
+
+.tint{
+
+	background-image: rgba (0,0,0,0.5);
+}
+
+.image{
+	margin: 2px
+	border:6px solid transparent;
+	display: inline-grid;
+}
